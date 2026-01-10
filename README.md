@@ -27,7 +27,7 @@
 ![Texto Alternativo](https://github.com/rodfloripa/Projeto29/blob/main/grafico.png)
 
 <p align="center">
-  Resultados com o conjunto de dados <a href="[https://example.com](https://github.com/rodfloripa/Projeto18)">Ozone Level</a>
+  Resultados com o conjunto de dados <a href="https://example.com](https://github.com/rodfloripa/Projeto18">Ozone Level</a>
 
 </p>
 
