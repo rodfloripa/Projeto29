@@ -4,7 +4,7 @@
 
 
 
-  SMOTE-Bagging é um algoritmo que não está no sci-kit learn.
+  SMOTE-Bagging é um algoritmo para dados desbalanceados que não está no sci-kit learn.
   
   O que o algoritmo faz?
   
