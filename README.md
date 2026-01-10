@@ -18,7 +18,7 @@
       
       
       
-  O SMOTE-Bagging se mostrou superior a outros algoritmos para o conjunto Ozone Level do <a href="https://github.com/rodfloripa/Projeto18">Projeto18</a>.
+  O SMOTE-Bagging se mostrou superior a outros algoritmos do sci-kit learn para o conjunto Ozone Level do <a href="https://github.com/rodfloripa/Projeto18">Projeto18</a>.
   <br><br>
 
 
