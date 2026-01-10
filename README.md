@@ -21,3 +21,5 @@
   O SMOTE-Bagging se mostrou superior a outros algoritmos para dados desbalanceados, existentes no sci-kit learn
 
 </p>
+
+![Texto Alternativo](URL_da_imagem)
