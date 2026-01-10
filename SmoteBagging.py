@@ -1,7 +1,7 @@
+import os
 
+os.system("pip install ucimlrepo xgboost --quiet")
 
-!pip install ucimlrepo --quiet
-!pip install xgboost --quiet
 
 from imblearn.over_sampling import SMOTE
 from xgboost import XGBClassifier
