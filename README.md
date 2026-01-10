@@ -18,7 +18,7 @@
       
       
       
-  O SMOTE-Bagging se mostrou superior a outros algoritmos para dados desbalanceados, existentes no sci-kit learn
+  O SMOTE-Bagging se mostrou superior a outros algoritmos para o conjunto Ozone Level do Projeto18.
   <br><br>
 
 
