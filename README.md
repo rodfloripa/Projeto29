@@ -26,7 +26,7 @@
 
 ![Texto Alternativo](https://github.com/rodfloripa/Projeto29/blob/main/grafico.png)
 
-<p align="justify">
+<p align="center">
   Resultados com o conjunto de dados Ozone Level
 </p>
 
