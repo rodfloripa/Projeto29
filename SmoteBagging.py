@@ -24,11 +24,12 @@ y = ozone.data.targets.to_numpy().ravel() # Use .ravel() para evitar avisos de f
 # 2. TRATAR NaNs (Imputação)
 # Vamos preencher os NaNs com a média de cada coluna
 imputer = SimpleImputer(strategy='mean')
-X = imputer.fit_transform(X)
+
 
 # 3. Dividir dados
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-
+X_test = imputer.fit_transform(X_test)
+X_train = imputer.fit_transform(X_train)
 # Função para treinar (mantida como a sua)
 def treinar_modelo(i):
     smote = SMOTE(random_state=i)
