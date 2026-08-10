@@ -17,7 +17,8 @@
       Votação (Averaging): No final, ele tira a média das predições para decidir o resultado.
       
       
-      
+  Foi usado balanceamento 0.5, ou seja,
+  a classe minoritária ficou com 50% da classe majoritária. 
   O SMOTE-Bagging se mostrou superior a outros algoritmos do sci-kit learn para o conjunto Ozone Level do <a href="https://github.com/rodfloripa/Projeto18">Projeto18</a>.
   <br><br>
 
